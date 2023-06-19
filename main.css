@@ -1,0 +1,48 @@
+body{
+    padding: 50px 100px 50px 100px;
+ 
+}
+.container{
+    background-image: url(./tem-background.jpg);
+    width: auto;
+}
+h1{
+    text-align: center;
+    box-sizing: border-box;
+
+}
+.wrapper{
+    text-align: center;
+    background-color: aqua;
+    padding: 50px;
+    
+}
+.input-div{
+    display:inline-block;
+
+}
+.inp{
+    padding: 10px 10px;
+    margin: 15px;
+    font-size: larger;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.con{
+    font-weight: bolder;
+    margin-top: 10px;
+    font-size: 22px;
+
+}
+.copyright{
+    text-align: center;
+    justify-content: center;
+    }
+.copyright p{
+    justify-content: baseline;
+    font-size: 17px;
+    font-weight:bold;
+    font-family: Arial, Helvetica, sans-serif;
+
+
+}
